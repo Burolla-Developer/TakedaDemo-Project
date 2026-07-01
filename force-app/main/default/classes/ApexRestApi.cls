@@ -21,5 +21,6 @@ global class ApexRestApi {
         System.debug('demo4');
         System.debug('demo5');
         System.debug('demo6');
+        System.debug('demo7');
     }
 }
