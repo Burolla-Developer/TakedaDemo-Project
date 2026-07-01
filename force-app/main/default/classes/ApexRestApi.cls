@@ -15,12 +15,6 @@ global class ApexRestApi {
         Account acc1 = new Account(Name = acc.CompanyName,Industry = acc.Industry);
         Insert acc1;
         System.debug(acc1);
-        System.debug('demo1');
-        System.debug('demo2');
-        System.debug('demo3');
-        System.debug('demo4');
-        System.debug('demo5');
-        System.debug('demo6');
-        System.debug('demo7');
+       
     }
 }
